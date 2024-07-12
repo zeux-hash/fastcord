@@ -5,3 +5,22 @@
 
 # A Alternative Client to Discord That is faster by %88!
 # [BETA]
+# 
+# Features!
+- Faster By %88!
+- Copy Token Button
+- Login With Token
+- Create Friend Link
+- Devtools Unblocked
+  
+# 
+# Installation
+[Download] Fastcord
+
+# Requirements
+- Webview2
+- .NET 4.7.2
+
+# Coming Soon Features
+- Vencord
+- Theme Engine
